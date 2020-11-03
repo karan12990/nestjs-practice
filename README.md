@@ -88,3 +88,7 @@ yarn add class-validator class-transformer
 
 https://github.com/typestack/class-validator#validation-decorators
 
+##typeorm
+yarn add @nestjs/typeorm typeorm pg
+
+https://typeorm.delightful.studio/
